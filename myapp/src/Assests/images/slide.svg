@@ -1,0 +1,8 @@
+<svg id="btn_menu_header" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="Rectangle_1270" data-name="Rectangle 1270" width="60" height="60" rx="10" fill="#eef5f6"/>
+  <g id="Group_6289" data-name="Group 6289" transform="translate(0 -1)">
+    <rect id="Rectangle_2096" data-name="Rectangle 2096" width="28" height="3" rx="1.5" transform="translate(16 20)"/>
+    <rect id="Rectangle_2097" data-name="Rectangle 2097" width="28" height="3" rx="1.5" transform="translate(16 30)" fill="#e57607"/>
+    <rect id="Rectangle_2098" data-name="Rectangle 2098" width="28" height="3" rx="1.5" transform="translate(16 40)"/>
+  </g>
+</svg>

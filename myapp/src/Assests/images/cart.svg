@@ -1,0 +1,8 @@
+<svg id="btn_cart" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="Rectangle_1270" data-name="Rectangle 1270" width="60" height="60" rx="10" fill="#eef5f6"/>
+  <g id="shopping-cart_2_" data-name="shopping-cart (2)" transform="translate(15.368 15)">
+    <path id="Path_11342" data-name="Path 11342" d="M28.391,5.1A3.741,3.741,0,0,0,25.512,3.75H5.3L5.25,3.311A3.75,3.75,0,0,0,1.527,0H1.25a1.25,1.25,0,0,0,0,2.5h.277A1.25,1.25,0,0,1,2.769,3.6l1.72,14.625A6.25,6.25,0,0,0,10.7,23.75H23.75a1.25,1.25,0,0,0,0-2.5H10.7a3.75,3.75,0,0,1-3.525-2.5h14.9a6.25,6.25,0,0,0,6.151-5.142L29.2,8.166a3.742,3.742,0,0,0-.812-3.07ZM26.75,7.722l-.982,5.442a3.75,3.75,0,0,1-3.7,3.085H6.774L5.6,6.25H25.512A1.25,1.25,0,0,1,26.75,7.722Z"/>
+    <circle id="Ellipse_362" data-name="Ellipse 362" cx="2.5" cy="2.5" r="2.5" transform="translate(6 25)" fill="#e57607"/>
+    <circle id="Ellipse_363" data-name="Ellipse 363" cx="2.5" cy="2.5" r="2.5" transform="translate(19 25)" fill="#e57607"/>
+  </g>
+</svg>

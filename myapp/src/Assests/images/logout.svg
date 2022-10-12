@@ -1,0 +1,11 @@
+<svg id="ic_logout" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <rect id="Rectangle_1270" data-name="Rectangle 1270" width="50" height="50" rx="10" fill="#eef5f6"/>
+  <g id="turn-off_4_" data-name="turn-off (4)" transform="translate(-7.331 13)">
+    <g id="Group_5416" data-name="Group 5416" transform="translate(21.331)">
+      <g id="Group_5415" data-name="Group 5415" transform="translate(0)">
+        <path id="Path_9728" data-name="Path 9728" d="M36.73,60.49a1,1,0,0,0-.8,1.833,9,9,0,1,1-7.2,0,1,1,0,0,0-.8-1.832,11,11,0,1,0,8.8,0Z" transform="translate(-21.331 -57.575)"/>
+        <path id="Path_9729" data-name="Path 9729" d="M235.656,11a1,1,0,0,0,1-1V1a1,1,0,1,0-2,0v9A1,1,0,0,0,235.656,11Z" transform="translate(-224.656)" fill="#e57607"/>
+      </g>
+    </g>
+  </g>
+</svg>

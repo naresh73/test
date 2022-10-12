@@ -1,0 +1,35 @@
+.profilepage {
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.section {
+    padding: 30px;
+    width: 33%;
+    font-weight: 500;
+}
+
+.content {
+    display: flex;
+    
+    font-weight: 100;
+    padding: 10px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 20px;
+}
+
+.content .logo {
+    width: 15%;
+}
+
+.content .userdata {
+    width: 70%;
+}
+
+.content .icon {
+    width: 15%;
+}

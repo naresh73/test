@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+.header {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: white;
+    height: 80px;
+}
+
+.nav-link{
+    color: rgb(105, 101, 101);
+    font-size: 13px;
+    display: flexbox;
+}
+
+p {
+    color: black;
+    font-weight: 700;
+}
+
+.slide {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.slide2 {
+    margin-right: 990px;
+}
